@@ -90,11 +90,11 @@ with col1:
 
 with col2:
     if st.button("👨‍💼 Register Employee", use_container_width=True):
-        st.switch_page("pages/Register Empoyee.py")  
+        st.switch_page("pages/Register_Employee.py")  
 
 with col3:
     if st.button("📊 View Attendance", use_container_width=True):
-        st.switch_page("pages/View Attendence.py")
+        st.switch_page("pages/View_Attendence.py")
 
 # Footer
 st.markdown(
