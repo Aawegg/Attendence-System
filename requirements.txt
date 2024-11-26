@@ -2,5 +2,5 @@ opencv-python-headless
 opencv-python
 gspread
 face_recognition
-pickle
+# pickle
 numpy
