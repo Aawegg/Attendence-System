@@ -3,3 +3,4 @@ opencv-python
 gspread
 face_recognition
 numpy
+dlib==19.22.1
